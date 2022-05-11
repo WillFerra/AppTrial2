@@ -42,7 +42,7 @@
     position: relative !important;
     text-align: center !important;
     background-color: white !important;
-  }
+}
 
 /* text on image */
 .imagetext {
@@ -50,7 +50,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
+}
 
 /* Creating the main menu buttons */
 .menubutton{
@@ -118,6 +118,7 @@ td {
 /* Increasing the spacing between cells in the main menu */
 table {
     border-spacing: 15px !important;
+    padding: 0px !important;
 }
 
 /* Adding skyline image to the background */
